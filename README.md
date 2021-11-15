@@ -1,2 +1,2 @@
-# CSS_Study
-css study demo
+# CssStudy
+Those years of learning CSS
